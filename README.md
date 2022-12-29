@@ -17,7 +17,7 @@ Used data © Statistics Finland (CC BY 4.0)
 The Adobe Illustrator 2020 document `bivariate-textures.ai`contains texture (pattern) swatches and the model used for texture design plus example images. 
 
 ## Color palettes
-![images/colorpalettes.png](New bivariate color palettes)
+![Three new bivariate color palettes](images/colorpalettes.png)
 The hex codes and summary statistics for the 3 x 3 color palettes are also collected in 
 `bivariate-colortables.csv`.
 Colors as hex codes listed starting from light 1-1 swatch.
