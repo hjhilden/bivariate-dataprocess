@@ -3,7 +3,7 @@ Notebook and supplementary materials for Master’s thesis
 
 ## Map generation
 
-![Bivariate map design](images/bivariate-map.png){width=600px}
+![Contingency table, histograms, bivariate map design](images/bivariate-map.png)
 
 The Jupyter Notebook `bivariate_dataprocess-and-map-export.ipynb` can be used to generate the contingency tables, scatterplots, histograms and bivariate maps in the Master’s thesis. Additional visualizations can be made from the included data sets.
 
