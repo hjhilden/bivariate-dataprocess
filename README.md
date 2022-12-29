@@ -1,20 +1,27 @@
-# Bivariate-dataprocess
-Notebook and supplementary materials for Master’s thesis
+# Bivariate hue blending: Notebook and supplementary materials
+Notebook and supplementary materials for the Master’s Thesis _Bivariate hue blending – Color scale design for bivariate choropleth maps with a custom tool_, Master’s programme in Visual Communication Design, Aalto University.
+
+Companion material to https://github.com/hjhilden/svelte-colorgridder
 
 ## Map generation
 
 ![Contingency table, histograms, bivariate map design](images/bivariate-map.png)
 
-The Jupyter Notebook `bivariate_dataprocess-and-map-export.ipynb` can be used to generate the contingency tables, scatterplots, histograms and bivariate maps in the Master’s thesis. Additional visualizations can be made from the included data sets.
+The Jupyter Notebook `bivariate_dataprocess-and-map-export.ipynb` can be used to generate the contingency tables, scatterplots, histograms and bivariate maps in the Master’s thesis. Additional visualizations can also be made from the included data sets.
 
-The notebook uses Pandas v. 1.5.1, Seaborn v. 0.11.2, Numpy v. 1.23.4 and Matplotlib v. 3.6.1 but may work with other versions. 
+To run, just clone the repository and open the notebook with your preferred JupyterLab editor. 
 
-Geoprocessing is done using geopandas v. 0.12.0 and fiona v. 1.8.22. 
+The notebook was made with Pandas v. 1.5.1, Seaborn v. 0.11.2, Numpy v. 1.23.4 and Matplotlib v. 3.6.1 but may work with other versions. Geoprocessing is done using geopandas v. 0.12.0 and fiona v. 1.8.22. 
+
+The environment with required packages is provided in 
+`environment.yml` (see usage instruction https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file )
 
 Used data © Statistics Finland (CC BY 4.0)
 - Municipial and regional statistics: Municipal key figures 1987-2018 https://pxdata.stat.fi/PxWeb/pxweb/en/Kuntien_avainluvut/Kuntien_avainluvut__2019/kuntien_avainluvut_2019_aikasarja.px/
 - Geodata, municipalities: https://stat.fi/org/avoindata/paikkatietoaineistot/kuntapohjaiset_tilastointialueet_en.html
 - Geodata, regions: https://stat.fi/org/avoindata/paikkatietoaineistot/kuntapohjaiset_tilastointialueet_en.html
+
+Dorling cartograms are generated using code by Daniel Lewis https://github.com/danlewis85/cartogrampy which is included in this repository for convenience (released under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007)
 
 ## Textures
 ![Texture construction and texture palettes](images/textures.png)
