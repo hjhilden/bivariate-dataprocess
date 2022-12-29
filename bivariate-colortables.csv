@@ -1,0 +1,11 @@
+﻿;Author;Name;Delta E average;Delta E min;Delta E max;CVD safe?;Colors
+1.;Stevens;Gray Pink / RdBu;32.74;10.93;56.19;No;"""#e8e8e8"", ""#e4acac"", ""#c85a5a"", ""#b0d5df"", ""#ad9ea5"", ""#985356"",  ""#64acbe"", ""#627f8c"", ""#574249"""
+2.;Stevens;Dark Blue / BuPu;30.76;10.88;54.56;No;"""#e8e8e8"", ""#ace4e4"", ""#5ac8c8"", ""#dfb0d6"", ""#a5add3"", ""#5698b9"", ""#be64ac"", ""#8c62aa"", ""#3b4994"""
+3.;Stevens;Dark Cyan / GnBu;26.35;9.30;50.19;Yes;"""#e8e8e8"", ""#b5c0da"", ""#6c83b5"",  #b8d6be"",  ""#90b2b3"", ""#567994"",  ""#73ae80"", ""#5a9178"", ""#2a5a5b"""
+4.;Stevens;Brown / PuOr;30.15;11.98;53.56;Yes;"""#e8e8e8"", ""#e4d9ac"", ""#c8b35a"", ""#cbb8d7"", ""#c8ada0"", ""#af8e53"",  ""#9972af"", ""#976b82"", ""#804d36"""
+5.;Grossenbacher and Zehr;Dark Violet;29.27;12.69;58.41;Yes;"""#CABED0"", ""#BC7C8F"", ""#AE3A4E"", ""#89A1C8"", ""#806A8A"", ""#77324C"", ""#4885C1"", ""#435786"", ""#3F2949"""
+6.;Brewer;sequential / sequential (1994a) / seqseq2;39.99;13.21;94.60;Yes;"""#f3f3f3"", ""#b4d3e1"", ""#509dc2"", ""#f3e6b3"", ""#b3b3b3"",  ""#376387"", ""#f3b300"", ""#b36600"", ""#000000"""
+7.;Brewer;sequential / sequential (1994b) / seqseq1;34.39;12.48;70.53;No;"""#e8e6f2"", ""#b5d3e7"", ""#4fadd0"", ""#e5b4d9"", ""#b8b3d8"", ""#3983bb"", ""#de4fa6"", ""#b03598"", ""#2a1a8a"""
+New 1.;Hildén;Orange Cyan;41.24;14.42;79.67;Yes;"""#f1f1f1"", ""#73dbfb"", ""#00aef1"", ""#f5ca5a"", ""#ada09e"", ""#296d9c"", ""#ee8b15"", ""#9e550d"", ""#3f212a"""
+New 2.;Hildén;Blue Red high saturation;40.17;22.21;98.17;Yes;"""#fdfbe2"", ""#edbba8"", ""#f84b5e"", ""#b0c9dc"", ""#9b7e8f"", ""#8a2b43"", ""#647de2"", ""#4b4588"", ""#25001a"""
+New 3.;Hildén;Green Violet;38.25;15.11;66.45;Yes;"""#e8f3f1"", ""#b7b9e7"", ""#936fc4"", ""#a2cb78"", ""#688b7c"", ""#5e5392"", ""#31991b"", ""#276e1d"", ""#0d4020"""
