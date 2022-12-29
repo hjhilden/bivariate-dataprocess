@@ -1,0 +1,47 @@
+#Author: Jonatan Hilden
+# TN style no grid
+# Full style ref https://matplotlib.org/stable/tutorials/introductory/customizing.html
+
+font.sans-serif: Andale Mono
+
+
+lines.linewidth: 4
+lines.solid_capstyle: butt
+
+legend.fancybox: true
+
+axes.prop_cycle: cycler('color', ['FF4612', '34388e', '9c9ec7'])
+axes.facecolor: FFFFFF
+axes.labelsize: small
+axes.axisbelow: true
+axes.grid: false
+axes.edgecolor: 000
+axes.spines.left: True
+axes.spines.bottom: True
+axes.linewidth: .5
+axes.titlesize: x-large
+
+patch.edgecolor: 000
+patch.linewidth: 0.5
+
+svg.fonttype: none
+pdf.fonttype: 42
+
+grid.linestyle: -
+grid.linewidth: 0.5
+grid.color: 000
+
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+
+font.size:7.8
+
+savefig.edgecolor: FFFFFF
+savefig.facecolor: FFFFFF
+
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.facecolor: FFFFFF
